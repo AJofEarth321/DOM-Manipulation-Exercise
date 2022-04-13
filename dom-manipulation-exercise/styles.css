@@ -1,0 +1,53 @@
+p {
+    height: 100px;
+  }
+  
+  .info-paragraph {
+    height: 16px;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .orange {
+    background-color: orange;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  .indigo {
+    background-color: indigo;
+  }
+  
+  .violet {
+    background-color: violet;
+  }
+  
+  .pink {
+    background-color: pink;
+  }
+  
+  .black {
+    background-color: black;
+  }
+  
+  .white {
+    background-color: white;
+  }
+  
+  .gray, .grey {
+    background-color: gray;
+  }
+  
+  
